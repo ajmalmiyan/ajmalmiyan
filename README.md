@@ -19,7 +19,7 @@ You can find my work on my [Portfolio](http://ajmalmiyan.github.io/).
 
 ## ⚡ My Github Stats
 <p align="center">
-  <img  alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajmalmiyan&show_icons=true&theme=light&count_private=true" height="200px"  />
+  <img  alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajmalmiyan&count_private=true&show_icons=true&theme=light" height="200px"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalmiyan&theme=light" height="200px" />
 
 </p>
