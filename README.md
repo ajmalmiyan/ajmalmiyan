@@ -9,7 +9,7 @@ He/Him
 - 👾 I’m a Full Stack Development Fellow at Masai School.
 
 ### 🔭 Other interests
-I like watching Football, Cinema and Series.
+I like solving Sudoku puzzles.
 
 ### 📫 How can you reach me?
 Connect with me on [Twitter](https://twitter.com/ajmalmiyan) or [LinkedIn](https://www.linkedin.com/in/ajmalmiyan).
@@ -19,8 +19,11 @@ You can find my work on my [Portfolio](http://ajmalmiyan.github.io/).
 
 ## ⚡ My Github Stats
 <p align="center">
-  <img  alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajmalmiyan&count_private=true&show_icons=true&theme=light" height="200px"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalmiyan&theme=light" height="200px" />
+<!--   <img  alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajmalmiyan&count_private=true&show_icons=true&theme=light" height="200px"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalmiyan&theme=light" height="200px" /> -->
+  [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ajmalmiyan)](https://github.com/ajmalmiyan)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajmalmiyan&count_private=true&show_icons=true&hide_border=true)](https://github.com/ajmalmiyan)
 
 </p>
 <!--
