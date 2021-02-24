@@ -10,8 +10,7 @@ I like solving Sudoku.
 
 ### 📫 How can you reach me?
 Connect with me on [Twitter](https://twitter.com/ajmalmiyan) or [LinkedIn](https://www.linkedin.com/in/ajmalmiyan).
-<!-### 💬 Want to know more about me?
-You can find my work on my [Portfolio](http://ajmalmiyan.github.io/).-->
+
 ## ⚡ My Github Stats
 <p align="center">
 <!--   <img  alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajmalmiyan&count_private=true&show_icons=true&theme=light" height="200px"  />
