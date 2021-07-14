@@ -43,7 +43,4 @@ I am Ajmal KV. I'm a full stack web developer who is passionate about making web
    <a href="https://ajmalmiyan.medium.com/">
     <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />
   </a>&nbsp;&nbsp;
-   <a href="https://ajmalmiyan.medium.com/">
-    <img src="https://img.shields.io/badge/DISCORD-%23000000.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>&nbsp;&nbsp;
  </p>
